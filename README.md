@@ -3,7 +3,7 @@
 ## Project Overview
 On vacation in New York City, a friend and I used Citi Bike bike-sharing to get around. Citi Bike helped us really explore the city and interact with more New Yorkers. We decided to use the data from Citi Bike to present to a potential investor so that we can start a similar business in Des Moines, Iowa.  
 
-Checkout my New York Citi Bike bikesharing story on [Tableau](https://public.tableau.com/shared/XXQHH7YBW?:display_count=n&:origin=viz_share_link).
+Checkout my New York Citi Bike bikesharing story on [Tableau](https://public.tableau.com/shared/TJFRCPJYH?:display_count=n&:origin=viz_share_link).
 
 ## Resources
 Data Source: 201908-citibike-tripdata.csv, bike_datetime_change
@@ -42,4 +42,7 @@ The most popular time of day for woman to take a bike trip is between 6-9 AM Mon
 ### Trips by Gender & Weekday
 <img width="954" alt="Usertype_gender_weekday_hr" src="https://user-images.githubusercontent.com/91852495/151705429-5a0431b2-4184-4e0f-b707-3ad9b2aafa39.png">
 Female bike-sharing subscribers most often take trips on Thursdays and Fridays. Trips occur less often on Wednesdays. Male subscribers most frequently take trips between Monday-Tuesday and Thursday-Friday. Male and female customers take trip most often on Saturdays.
+</br></br></br>
 
+## Summary 
+Citi Bike is a popular transportation method for New Yorkers. Riders take trips most often in the morning and early evening Monday through Friday. Thursday & Friday are popular days for both men and women. Wednesday is not. In the future, a visualization that shows the age breakdown of customers and subscribers should be created. Creating a visualization regarding the most popular starting stations would be helpful for marketing purposes.
