@@ -1,6 +1,14 @@
 # Bikesharing
 
-Checkout my New York Citi Bike Bikesharing story on [Tableau](https://public.tableau.com/shared/XXQHH7YBW?:display_count=n&:origin=viz_share_link).
+## Project Overview
+On vacation in New York City, a friend and I used Citi Bike bike-sharing to get around. Citi Bike helped us really explore the city and interact with more New Yorkers. We decided to use the data from Citi Bike to present to a potential investor so that we can start a similar business in Des Moines, Iowa.  
+
+Checkout my New York Citi Bike bikesharing story on [Tableau](https://public.tableau.com/shared/XXQHH7YBW?:display_count=n&:origin=viz_share_link).
+
+## Resources
+Data Source: 201908-citibike-tripdata.csv, bike_datetime_change
+
+## Results
 
 <img width="993" alt="customers_subscribers" src="https://user-images.githubusercontent.com/91852495/151705385-6a4db9a4-f870-4bfe-b0c7-8f17d0d66042.png">
 
